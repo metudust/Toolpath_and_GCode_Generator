@@ -1,6 +1,6 @@
 # Toolpath_and_GCode_Generator
 
-The present Mathematica notebook presents a toolpath and G-Code generator (designed to be used with Bambu Lab A1-Mini) based on signed distance field (SDFs) and clustering algorithms.
+The current Mathematica notebook presents a toolpath and G-Code generator (designed to be used with Bambu Lab A1-Mini) based on signed distance field (SDFs) and clustering algorithms.
 
 
 ![rot_cylTPMSd-1 stl](https://github.com/user-attachments/assets/bbfabbcf-1b13-4a73-b952-d9ada6be5786)
