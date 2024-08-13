@@ -8,7 +8,7 @@ If you use the code for your work, please, cite it as
 
     Karakoc, Alp. "", Journal of XX, 20XX: XX-YY
 
-<img align="left" width="100" height="100" src="[https://github.com/user-attachments/assets/fc495bd1-678f-4769-a1a8-5202640a92e6]">
+<align="left" width="100" height="100" src="[https://github.com/user-attachments/assets/fc495bd1-678f-4769-a1a8-5202640a92e6]">
 ![rot_cylTPMSd-1 stl](https://github.com/user-attachments/assets/fc495bd1-678f-4769-a1a8-5202640a92e6)
 
 ![rot_HelicalGear1 stl](https://github.com/user-attachments/assets/4dfbd4a6-1bc2-4cca-9e52-90086af47a8e)
