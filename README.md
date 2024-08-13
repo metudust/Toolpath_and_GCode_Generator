@@ -8,5 +8,6 @@ If you use the code for your work, please, cite it as
 
     Karakoc, Alp. "", Journal of XX, 20XX: XX-YY
 
-<img width="50%" src="https://github.com/user-attachments/assets/fc495bd1-678f-4769-a1a8-5202640a92e6" align="right">
+<img width="40%" src="https://github.com/user-attachments/assets/fc495bd1-678f-4769-a1a8-5202640a92e6" align="right">
 
+<img width="40%" src="https://github.com/user-attachments/assets/b3f77b24-26c2-4022-a37a-9ce10f0fb7d1" align="left">
