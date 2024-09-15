@@ -6,7 +6,7 @@ As a demonstration case, please, run the available code "SignedDistanceFields" w
 
 If you use the code for your work, please, cite it as
 
-    Karakoc, Alp. "", Journal of XX, 20XX: XX-YY
+   Karakoç, A. A Toolpath Generator Based on Signed Distance Fields and Clustering Algorithms for Optimized Additive Manufacturing. J. Manuf. Mater. Process. 2024, 8, 199. https://doi.org/10.3390/jmmp8050199 
 
 <img width="45%" src="https://github.com/user-attachments/assets/fc495bd1-678f-4769-a1a8-5202640a92e6" align="right">
 <img width="45%" src="https://github.com/user-attachments/assets/b3f77b24-26c2-4022-a37a-9ce10f0fb7d1" align="left">
