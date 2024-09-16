@@ -2,7 +2,7 @@
 
 The current Mathematica notebook presents a toolpath and G-Code generator (designed to be used with Bambu Lab A1-Mini) based on signed distance field (SDFs) and clustering algorithms.
 
-As a demonstration case, please, run the available code "SignedDistanceFields" with the "Test.stl" file in the same directory. The user can fine tune the parameters in the Mathematica notebook to obtain the best possible results according to your requirements.
+As a demonstration case, please, run the available code "SignedDistanceFields" with the "Test.stl" file in the same directory. The user can fine tune the parameters in the Mathematica notebook to obtain the best possible results according to your requirements. It is noteworthy that the code is written in Mathematica 13; there may be compatibility issues with other versions due to function updates.
 
 If you use the code for your work, please, cite it as
 
